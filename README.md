@@ -7,6 +7,7 @@ Basic Information:
 
 Maintainer: Kou Zhiwu、YongRong、YanShiqin、ZhangXu.
 
+SDK tools:Qualcomm Adreno GPU SDK
 
 Start date: November 10th, 2019.
 
